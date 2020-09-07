@@ -1,6 +1,7 @@
-# byr_pretty
+# byr_torrent
 
-to solve the ip block problem(byr blocked all IPv6 address from public ISP of CHN.
+to solve the ip block problem(byr blocked all IPv6 address from public ISP of CHN).
+you can download torrents from your own site.
 
 ### How to use
 
